@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">React</string>
+    <string name="title_activity_main">React</string>
+    <string name="package_name">com.react.sumit</string>
+    <string name="custom_url_scheme">com.react.sumit</string>
+</resources>
